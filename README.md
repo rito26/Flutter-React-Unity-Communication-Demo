@@ -3,6 +3,10 @@
 - React: react-unity-webgl을 통해 유니티 WebGL 캔버스 렌더링
 - Unity: WebGL 빌드
 
+# 참고
+- <https://github.com/jeffreylanters/react-unity-webgl>
+- <https://github.com/jeffreylanters/react-unity-webgl-template>
+
 # 통신 방법
 
 ## 1. Unity -> React
